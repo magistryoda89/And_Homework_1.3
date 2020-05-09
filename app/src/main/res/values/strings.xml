@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">And_Homework_1.3</string>
+    <string name="health_logo">health_logo</string>
+    <string name="tv_title_text">Комплексная\nСистема\nМониторинга\nЗдоровья\n\nКоломийцев А.К.</string>
+    <string name="tv_info_text">Введите данные пользователя</string>
+    <string name="tv_fio_text">Фамилия Имя Отчество</string>
+    <string name="tv_age_text">Возраст</string>
+    <string name="btn_save_user_text">Сохранить пользователя</string>
+    <string name="btn_pressure_text">Давление</string>
+    <string name="btn_vitality_text">Общие показатели</string>
+    <string name="tv_weight_text">Масса тела</string>
+    <string name="tv_steps_text">Количество шагов</string>
+    <string name="btn_save_vitality_text">Сохранить показатели</string>
+    <string name="tv_pressure_text">Давление\nнижнее - верхнее</string>
+    <string name="btn_save_pressure_text">Сохранить показатели\nдавления</string>
+    <string name="tv_pulse_text">Пульс</string>
+    <string name="cb_tachycardia_text">Тахикардия</string>
+    <string name="pressure_title">Давление</string>
+    <string name="vitality_title">Общие показатели</string>
+
+
+    <string name="user_info_saved">Данные пользователя сохранены:\n</string>
+    <string name="vitality_saved">Показатели сохранены:\n</string>
+    <string name="pressure_saved">Данные сохранены:\n</string>
+
+
+    <string name="empty_fio_error">Введите ФИО!</string>
+    <string name="empty_field_error">Пожалуйста, заполните все поля!</string>
+    <string name="numeric_field_error">Введено неверное значение, должны быть только числа.</string>
+    <string name="weight_low_error">Масса тела не может быть равна 0 или меньше.</string>
+    <string name="steps_below_0_error">Количество шагов не может быть меньше 0.</string>
+    <string name="not_saved_error">Произошла ошибка, данные не были сохранены!</string>
+    <string name="pressure_down_low_error">Нижнее давление не может быть равно 0 или меньше.</string>
+    <string name="pressure_up_low_error">Верхнее давление не может быть равно 0 или меньше.</string>
+    <string name="pulse_low_error">Пульс не может быть равен 0 или меньше.</string>
+    <string name="pressure_updown_error">Верхнее давление не может быть меньше нижнего!</string>
+
+
+</resources>
